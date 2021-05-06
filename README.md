@@ -4,6 +4,6 @@ I know how to code in Java, C#, JavaScript, HTML, and CSS.
 
 Check out my [Discord](https://discord.com/invite/pTKcJjwJ3G) to talk with me
 
-[![Github Stats](https://kales-github-stats.vercel.app/api?username=Kale-Ko&count_private=true&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true&include_all_commits=true&custom_title=Kale%20Ko%27s%20Stats&hide=prs,stars,issues&bg_color=0D1117)](https://github.com/Kale-Ko/kales-github-stats)
+[![Github Stats](https://kales-github-stats.vercel.app/api?username=Kale-Ko&count_private=true&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true&include_all_commits=true&hide=prs,stars,issues&bg_color=0D1117)](https://github.com/Kale-Ko/kales-github-stats)
 \
-[![Top Langs](https://kales-github-stats.vercel.app/api/top-langs?username=Kale-Ko&layout=compact&custom_title=Kale%20Ko%27s%20Top%20Languages&langs_count=10&theme=gruvbox&border_radius=12&hide_border=true&bg_color=0D1117)](https://github.com/Kale-Ko/kales-github-stats)
+[![Top Langs](https://kales-github-stats.vercel.app/api/top-langs?username=Kale-Ko&layout=compact&langs_count=10&theme=gruvbox&border_radius=12&hide_border=true&bg_color=0D1117)](https://github.com/Kale-Ko/kales-github-stats)
