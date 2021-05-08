@@ -1,6 +1,7 @@
 ### Hi there
-Hello, I am a kid with a pation for coding and game design. I love to work on my Unity games and make small projects in Java and Javascript.
-I know how to code in Java, C#, JavaScript, HTML, and CSS.
+Hello, I am a kid with passion for coding and game design.
+I love to small projects in HTML and Javascript,
+and how to code in Java, C#, Lua, JavaScript, TypeScript, Node.js, HTML, and CSS
 
 Check out my [Discord](https://discord.com/invite/pTKcJjwJ3G) to talk with me
 
