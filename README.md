@@ -1,7 +1,7 @@
 ### Hi there
-Hello, I am a kid with passion for coding and game design.
-I love to small projects in HTML and Javascript,
-and how to code in Java, C#, Lua, JavaScript, TypeScript, Node.js, HTML, and CSS
+Hello, I am a kid with passion for coding.
+I love to play Minecraft and make small projects in HTML/Javascript.
+I know how to code in Java, C#, Lua, JavaScript, TypeScript, Node.js, HTML, and CSS
 
 Check out my [Discord](https://discord.com/invite/pTKcJjwJ3G) to talk with me
 
