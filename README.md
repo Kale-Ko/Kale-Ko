@@ -3,8 +3,13 @@ Hello, I am a kid with passion for coding.
 I love to play Minecraft and make small projects in HTML/Javascript.
 I know how to code in Java, C#, Lua, JavaScript, TypeScript, Node.js, HTML, and CSS
 
-![Views](https://komarev.com/ghpvc/?username=Kale-Ko&label=Views) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
+![Views](https://komarev.com/ghpvc/?username=Kale-Ko&label=Views)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kale-Ko)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14651779/kale-ko)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kale-Ko&count_private=true&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true&include_all_commits=true&custom_title=Kale%20Ko%27s%20Stats&cache_seconds=1800&bg_color=0D1117)
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kale-Ko&layout=compact&custom_title=Kale%20Ko%27s%20Top%20Languages&langs_count=10&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)
+
+![](https://hit.yhype.me/github/profile?user_id=54416665)
