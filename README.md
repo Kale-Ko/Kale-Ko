@@ -17,7 +17,7 @@ I use:\
 
 I code with:\
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[[Intellij Idea]()](https://www.jetbrains.com/idea/)
+[Intellij Idea](https://www.jetbrains.com/idea/)
 
 I code in:\
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
