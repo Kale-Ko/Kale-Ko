@@ -3,6 +3,8 @@ Hello, I am a kid with passion for coding.
 I love to play Minecraft and make small projects in HTML/Javascript.
 I know how to code in JavaScript, Node.js, TypeScript, Java, HTML, CSS, C#, Lua, Markdown, and Powershell
 
+For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki)
+
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kale-Ko)
