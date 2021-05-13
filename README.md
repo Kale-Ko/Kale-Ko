@@ -32,13 +32,13 @@ I know how to code in JavaScript, Node.js, TypeScript, Java, HTML, CSS, C#, Lua,
 [![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 \
 \
-**My stats:**
+**My stats:**\
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Kale-Ko&count_private=true&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true&include_all_commits=true&custom_title=Kale%20Ko%27s%20Stats&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko)
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kale-Ko&layout=compact&custom_title=Kale%20Ko%27s%20Top%20Languages&langs_count=10&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko)
 \
 \
-**My favorite projects:**
+**My favorite projects:**\
 [![Yaml Parser](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Yaml-Parser&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Yaml-Parser)
 [![Produce Man](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Produce-Man&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Produce-Man)
 [![Kales Utilities](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kales-Utilities&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kales-Utilities)
