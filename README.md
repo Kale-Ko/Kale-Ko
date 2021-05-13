@@ -1,5 +1,5 @@
 ### Hi there
-Hello, I am a kid with passion for coding.
+Hello, I am a kid with a passion for coding and robotics.
 I love to play Minecraft and make small projects in HTML/Javascript.
 I know how to code in JavaScript, Node.js, TypeScript, Java, HTML, CSS, C#, Lua, Markdown, and Powershell
 
