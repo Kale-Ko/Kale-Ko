@@ -11,7 +11,7 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14651779/kale-ko)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kale-ko/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kale-ko.itch.io/)
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](http://live.xbox.com/Profile?Gamertag=KaleKo9945)
 
 **I use:**\
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
@@ -45,4 +45,5 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 [![Produce Man](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Produce-Man&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Produce-Man)
 [![Kales Utilities](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kales-Utilities&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kales-Utilities)
 [![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kale-Bot&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kale-Bot)
+
 ![](https://hit.yhype.me/github/profile?user_id=54416665)
