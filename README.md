@@ -45,7 +45,7 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 **My favorite projects:**\
 [![Yaml Parser](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Yaml-Parser&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Yaml-Parser)
 [![Produce Man](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Produce-Man&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Produce-Man)
+[![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kale-Bot&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kale-Bot)
 [![Kales Utilities](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kales-Utilities&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kales-Utilities)
-[![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Express-Security&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Express-Security)
 
 ![](https://hit.yhype.me/github/profile?user_id=54416665)
