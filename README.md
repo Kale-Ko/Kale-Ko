@@ -1,4 +1,3 @@
-### Hi there
 Hello, my name is Kale and I have a passion for coding and robotics.
 I love to code and occasionally play Minecraft.
 I know how to code in [JavaScript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [Java](https://www.java.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/)
@@ -41,7 +40,7 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 \
 **My favorite projects:**\
 [![Yaml Parser](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Yaml-Parser&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Yaml-Parser)
-[![Produce Man](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Produce-Man&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Produce-Man)
+[![Produce Man](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Produce-Man&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Produce-Man)\
 [![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kale-Bot&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kale-Bot)
 [![Kales Utilities](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kales-Utilities&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kales-Utilities)
 
