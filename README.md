@@ -13,7 +13,7 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14651779/kale-ko)
 
 **I use:**\
-[![Windows 10](ttps://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
+[![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
 [![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/)
 
 **I code with:**\
