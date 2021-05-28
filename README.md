@@ -32,7 +32,7 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 \
 \
-**My stats:**\
+**My stats:**
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Kale-Ko&count_private=true&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true&include_all_commits=true&custom_title=Kale%20Ko%27s%20Stats&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko)
 \
 <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kale-Ko&layout=compact&custom_title=Kale%20Ko%27s%20Top%20Languages&langs_count=10&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko) -->
