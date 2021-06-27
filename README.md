@@ -50,5 +50,5 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 **My favorite projects:**\
 [![OpenGE](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=OpenGE&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/OpenGE)
 [![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kale-Bot&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kale-Bot)\
+[![Github Web Editor](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Github-Web-Editor&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Github-Web-Editor)
 [![Yaml Parser](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Yaml-Parser&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Yaml-Parser)
-[![My Site](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=My-Site&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/My-Site/tree/server)
