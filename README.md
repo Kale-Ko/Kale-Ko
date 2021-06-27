@@ -35,10 +35,10 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 \
 \
 **Special thanks:**\
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) - Code storage
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/) - Application hosting
-[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/) - Project Managment
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/) - Data storage
+[Github](https://github.com/) - Code storage
+[Heroku](https://heroku.com/) - Application hosting
+[Trello](https://trello.com/) - Project Managment
+[Firebase](https://firebase.google.com/) - Data storage
 \
 \
 **My stats:**\
