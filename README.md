@@ -1,6 +1,6 @@
 Hello, my name is Kale and I have a passion for coding and robotics.
 I love to code and occasionally play Minecraft.
-I know how to code in [JavaScript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [Java](https://www.java.com/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
+I know how to code in [JavaScript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
 
 I have a cool website with tons of cool projects, check it out [here](https://kaleko.ga/)
 
@@ -26,9 +26,9 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 [![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
