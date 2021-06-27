@@ -1,6 +1,6 @@
 Hello, my name is Kale and I have a passion for coding and robotics.
 I love to code and occasionally play Minecraft.
-I know how to code in [JavaScript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
+I know how to code in [JavaScript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [TypeScript](https://www.typescriptlang.org/), [Java](https://www.java.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
 
 I have a cool website with tons of cool projects, check it out [here](https://kaleko.ga/)
 
