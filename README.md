@@ -35,9 +35,9 @@ For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
 \
 \
 **Special thanks:**\
-[Github](https://github.com/) - Code storage
-[Heroku](https://heroku.com/) - Application hosting
-[Trello](https://trello.com/) - Project Managment
+[Github](https://github.com/) - Code storage,
+[Heroku](https://heroku.com/) - Application hosting,
+[Trello](https://trello.com/) - Project Managment,
 [Firebase](https://firebase.google.com/) - Data storage
 \
 \
