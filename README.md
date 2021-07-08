@@ -4,8 +4,6 @@ I know how to code in [JavaScript](https://www.javascript.com/), [Node.js](https
 
 I have a cool website with tons of cool projects, check it out [here](https://kaleko.ga/)
 
-For more about me go [here](https://github.com/Kale-Ko/Kale-Ko/wiki/about)
-
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kale-Ko)
