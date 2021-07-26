@@ -12,15 +12,16 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko).
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Kale_Ko)
 
 **I use:**\
-[![Windows 10](https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
-[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
+[![Chrome OS](https://img.shields.io/badge/Chrome%20OS-FFCE44?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.google.com/chromebook/chrome-os/)
+[![iOS 14](https://img.shields.io/badge/iOS%2014-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Android 8](https://img.shields.io/badge/Android%208-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 **I code with:**\
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Intellij Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio 2019](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-222222?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/)
+[![Intellij Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 **I code in:**\
 [![Html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -34,14 +35,6 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko).
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 \
 \
-**Special thanks:**\
-[Github](https://github.com/) - Code storage,
-[Heroku](https://heroku.com/) - Application hosting,
-[Firebase](https://firebase.google.com/) - Data storage,
-and
-[Trello](https://trello.com/) - Project Managment
-\
-\
 **My stats:**\
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Kale-Ko&count_private=true&show_icons=true&theme=gruvbox&border_radius=12&hide_border=true&include_all_commits=true&custom_title=Kale%20Ko%27s%20Stats&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko)
 \
@@ -53,3 +46,12 @@ and
 [![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kale-Bot&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kale-Bot)\
 [![My Site](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=My-Site&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/My-Site)
 [![Yaml Parser](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Yaml-Parser&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Yaml-Parser)
+\
+\
+**Special thanks:**\
+[Github](https://github.com/) - Code storage,
+[Heroku](https://heroku.com/) - Application hosting,
+[CodeSandbox](https://codesandbox.io/) - Online code editting,
+[Firebase](https://firebase.google.com/) - Data storage,
+and
+[Trello](https://trello.com/) - Project Managment
