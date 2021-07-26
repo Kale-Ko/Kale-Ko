@@ -12,7 +12,7 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko).
 
 **I use:**\
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
-[![Chrome OS](https://img.shields.io/badge/Chrome%20OS-FFCE44?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.google.com/chromebook/chrome-os/)
+[![Chrome OS](https://img.shields.io/badge/Chrome%20OS-E3A700?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/)
 [![iOS 14](https://img.shields.io/badge/iOS%2014-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Android 8](https://img.shields.io/badge/Android%208-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
