@@ -32,19 +32,3 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko).
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-\
-\
-**My favorite projects:**\
-[![OpenGE](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=OpenGE&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/OpenGE)
-[![Kale Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Kale-Bot&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Kale-Bot)\
-[![My Site](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=My-Site&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/My-Site)
-[![Yaml Parser](https://github-readme-stats.vercel.app/api/pin/?username=Kale-Ko&repo=Yaml-Parser&show_owner=true&theme=gruvbox&border_radius=12&hide_border=true&cache_seconds=1800&bg_color=0D1117)](https://github.com/Kale-Ko/Yaml-Parser)
-\
-\
-**Special thanks:**\
-[Github](https://github.com/) - Code storage,
-[Heroku](https://heroku.com/) - Application hosting,
-[CodeSandbox](https://codesandbox.io/) - Online code editting,
-[Firebase](https://firebase.google.com/) - Data storage,
-and
-[Trello](https://trello.com/) - Project Managment
