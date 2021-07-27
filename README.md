@@ -8,7 +8,6 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko).
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
 [![Email](https://img.shields.io/badge/Email-00B1DE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kale-Ko)
 
 **I use:**\
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
