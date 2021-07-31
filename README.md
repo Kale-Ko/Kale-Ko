@@ -1,7 +1,7 @@
 Hello, my name is Kale. I am a self taught coder from the US.
 I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
 
-Check out my current big project [OpenGE](https://github.com/Open-Game-Engine/OpenGE), a simple game engine.
+Check out my current big project [OpenGE](https://github.com/Open-Game-Engine/OpenGE), an open source JavaScript game engine.
 
 I also have a cool website with tons of cool projects, check it out [here](https://kaleko.ga/)
 
