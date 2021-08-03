@@ -3,7 +3,7 @@ I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
 
 Check out my current big project [OpenGE](https://github.com/Open-Game-Engine/OpenGE), an open source JavaScript game engine.
 
-Also check out [My Website](https://kaleko.ga)
+Also check out [my website](https://kaleko.ga)
 
 If you would like to support me you could [donate](https://patreon.com/Kale_Ko).
 
