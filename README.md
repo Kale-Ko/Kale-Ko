@@ -3,8 +3,6 @@ I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
 
 Check out my current big project [The Kale Bot](https://github.com/Kale-Ko/Kale-Bot), a Discord bot for fun, moderation, and interaction
 
-Also check out [my website](https://kaleko.ga)
-
 If you would like to support me you could [donate](https://patreon.com/Kale_Ko)
 
 **Contact me:**\
