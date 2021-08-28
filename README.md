@@ -10,10 +10,10 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko)
 [![Email](https://img.shields.io/badge/Email-00B1DE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
 
 **I use:**\
-[![Mac OS X]()](https://www.apple.com/macos/)
+[![Mac OS X](https://img.shields.io/badge/Mac%20OS%20X-a10d63?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/)
 [![Windows 10](https://img.shields.io/badge/Mac%20OS%20X-a10d63?style=for-the-badge&logo=macos&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
+[![iOS 15 Beta](https://img.shields.io/badge/iOS%2014-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Chrome OS](https://img.shields.io/badge/Chrome%20OS-E3A700?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/)
-[![iOS 15](https://img.shields.io/badge/iOS%2014-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Android 8](https://img.shields.io/badge/Android%208-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 **I code with:**\
