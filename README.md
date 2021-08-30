@@ -20,6 +20,7 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko)
 
 **I code with:**\
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Gitpod](https://img.shields.io/badge/Gitpod-e3961b.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Intellij Idea](https://img.shields.io/badge/IntelliJ%20Idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
@@ -33,3 +34,8 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+**Thanks to:**\
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) - Code storage
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/) - Application hosting
+[![Firebase](https://img.shields.io/badge/firebase-ba7607?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/) - Application data storage
