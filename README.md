@@ -36,6 +36,6 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 **Thanks to:**\
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) - Code storage
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/) - Application hosting
-[![Firebase](https://img.shields.io/badge/firebase-ba7607?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/) - Application data storage
+[Github](https://github.com/) - Code storage,
+[Heroku](https://heroku.com/) - Application hosting,
+[Firebase](https://firebase.google.com/) - Application data storage
