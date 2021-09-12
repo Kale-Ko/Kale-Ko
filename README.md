@@ -20,7 +20,6 @@ If you would like to support me you could [donate](https://patreon.com/Kale_Ko)
 
 **I code with:**\
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Gitpod](https://img.shields.io/badge/Gitpod-e3961b.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Intellij Idea](https://img.shields.io/badge/IntelliJ%20Idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
