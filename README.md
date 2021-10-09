@@ -32,8 +32,3 @@ Also check out [my website](https://kaleko.ga), a showcase of all my big project
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
-**Thanks to:**\
-[Github](https://github.com/) - Code storage,
-[Heroku](https://heroku.com/) - Application hosting,
-[Firebase](https://firebase.google.com/) - Application data storage
