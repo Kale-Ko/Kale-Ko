@@ -1,5 +1,5 @@
 Hello, my name is Kale. I am a self taught coder from the US.
-I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
+I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C++](https://docs.microsoft.com/en-us/cpp/cpp/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
 
 Check out my current big project [The Kale Bot](https://github.com/Kale-Bot/Kale-Bot), a Discord bot for fun, moderation, and interaction
 
@@ -28,6 +28,7 @@ Also check out [my website](https://kaleko.ga), a showcase of all my big project
 [![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/c++-174999.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://docs.microsoft.com/en-us/cpp/cpp/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
