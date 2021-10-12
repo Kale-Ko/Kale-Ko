@@ -1,7 +1,7 @@
 Hello, my name is Kale. I am a self taught coder from the US.
 I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C++](https://docs.microsoft.com/en-us/cpp/cpp/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
 
-Also check out [my website](https://kaleko.ga), a showcase of all my big projects
+Also check out [my website](https://kaleko.ga)
 
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
