@@ -1,7 +1,7 @@
 Hello, my name is Kale. I am a self taught coder from the US.
 I know how to code in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Java](https://www.java.com/), [C++](https://docs.microsoft.com/en-us/cpp/cpp/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Lua](https://www.lua.org/), and [Markdown](https://www.markdownguide.org/) 
 
-Also check out [my website](https://kaleko.ga)
+Check out my website [here](https://kaleko.ga)
 
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
@@ -10,7 +10,6 @@ Also check out [my website](https://kaleko.ga)
 **I use:**\
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
-[![Mac OS X](https://img.shields.io/badge/Mac%20OS%20X-a10d63?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/)
 [![Android 8](https://img.shields.io/badge/Android%208-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 **I code with:**\
