@@ -1,9 +1,9 @@
+## About Me
+
 Hello, my name is Kale. I am a self taught coder from the US.
 I know how to code in a wide variaty of languages and 
 
 Check out my website [here](https://kaleko.ga)
-
-![Tick Tack Toe](https://tictactoe.kaleko.ga/game)
 
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
@@ -27,3 +27,7 @@ Check out my website [here](https://kaleko.ga)
 [![C++](https://img.shields.io/badge/c++-174999.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://docs.microsoft.com/en-us/cpp/cpp/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+
+# Play Some Tic Tack Toe
+
+![Tick Tack Toe](https://tictactoe.kaleko.ga/game)
