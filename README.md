@@ -28,6 +28,6 @@ Check out my website [here](https://kaleko.ga)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
-# Play Some Tic Tack Toe
+# Play Tic Tack Toe
 
 ![Tick Tack Toe](https://tictactoe.kaleko.ga/game)
