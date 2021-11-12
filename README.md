@@ -28,7 +28,7 @@ Check out my website [here](https://kaleko.ga)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
-# Cool things I've made
+## Cool things I've made
 
 [A Website](https://kaleko.ga/)
 [Online Tic Tac Toe](https://tictactoe.kaleko.ga/)
