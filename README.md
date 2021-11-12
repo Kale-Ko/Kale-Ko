@@ -30,4 +30,4 @@ Check out my website [here](https://kaleko.ga)
 
 # Play Tic Tack Toe
 
-![Tick Tack Toe](https://tictactoe.kaleko.ga/game)
+[![Tick Tack Toe](https://tictactoe.kaleko.ga/game)](https://tictactoe.kaleko.ga/)
