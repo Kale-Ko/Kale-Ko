@@ -30,16 +30,4 @@ Check out my website [here](https://kaleko.ga)
 
 # Play Tic Tack Toe
 
-[![Tick Tack Toe](https://tictactoe.kaleko.ga/game)](https://tictactoe.kaleko.ga/)
-
-[0, 0](https://tictactoe.kaleko.ga/update/0,0/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-[1, 0](https://tictactoe.kaleko.ga/update/1,0/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-[2, 0](https://tictactoe.kaleko.ga/update/2,0/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-
-[0, 1](https://tictactoe.kaleko.ga/update/0,1/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-[1, 1](https://tictactoe.kaleko.ga/update/1,1/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-[2, 1](https://tictactoe.kaleko.ga/update/2,1/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-
-[0, 2](https://tictactoe.kaleko.ga/update/0,2/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-[1, 2](https://tictactoe.kaleko.ga/update/1,2/x?return=https://github.com/Kale-Ko/Kale-Ko/)
-[2, 2](https://tictactoe.kaleko.ga/update/2,2/x?return=https://github.com/Kale-Ko/Kale-Ko/)
+[![Tick Tack Toe](https://tictactoe.kaleko.ga/)](https://tictactoe.kaleko.ga/)
