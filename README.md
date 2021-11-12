@@ -31,3 +31,15 @@ Check out my website [here](https://kaleko.ga)
 # Play Tic Tack Toe
 
 [![Tick Tack Toe](https://tictactoe.kaleko.ga/game)](https://tictactoe.kaleko.ga/)
+
+[0, 0](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+[1, 0](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+[2, 0](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+
+[0, 1](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+[1, 1](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+[2, 1](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+
+[0, 2](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+[1, 2](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
+[2, 2](https://tictactoe.kaleko.ga/update/1,0/x?return=https://tictactoe.kaleko.ga/)
