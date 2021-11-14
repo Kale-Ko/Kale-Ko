@@ -32,4 +32,8 @@ Check out my website [here](https://kaleko.ga)
 
 [A Website](https://kaleko.ga/)\
 [Online Tic Tac Toe](https://tictactoe.kaleko.ga/)\
-[A Minecraft Clone](https://kale-ko.itch.io/yatmcc)
+[A Minecraft Clone](https://kale-ko.itch.io/yatmcc)\
+[A Snake Game](https://kale-ko.itch.io/snake)\
+[2D Golf](https://github.kaleko.ga/Golf)\
+[2D Block Simulation](https://github.kaleko.ga/2D-Simulation)\
+[Yaml Parsing Library](https://www.npmjs.com/super-yaml-parser)
