@@ -1,9 +1,9 @@
 ## About Me
 
-Hello, my name is Kale. I am a self taught coder from the US.
-I know how to code in a wide variaty of languages and 
+Hello, my name is Kale. I am a self taught developer from the US.
+I know how to code in a wide variaty of languages and do it daily. Check out some things I've made (here)[https://kaleko.ga/projects]
 
-Check out my website [here](https://kaleko.ga)
+Also check out my website [here](https://kaleko.ga)
 
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
