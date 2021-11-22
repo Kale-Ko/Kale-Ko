@@ -23,6 +23,6 @@ I know how to code in a wide variaty of languages and love to do it. Check out s
 [![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/c++-174999.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://docs.microsoft.com/en-us/cpp/cpp/)
-[![C#](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Python]()](https://python.org/)
+[![C#]((https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
