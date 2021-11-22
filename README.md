@@ -1,9 +1,7 @@
 ## About Me
 
 Hello, my name is Kale. I am a self taught developer from the US.
-I know how to code in a wide variaty of languages and love to do it. Check out some things I've made further down
-
-Also check out my website [here](https://kaleko.ga)
+I know how to code in a wide variaty of languages and love to do it. Check out some things I've made on [my website](https://kaleko.ga)
 
 **Contact me:**\
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
@@ -27,12 +25,3 @@ Also check out my website [here](https://kaleko.ga)
 [![C++](https://img.shields.io/badge/c++-174999.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://docs.microsoft.com/en-us/cpp/cpp/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
-
-## Cool things I've made
-
-[A Website](https://kaleko.ga/)\
-[A Minecraft Clone](https://kale-ko.itch.io/yatmcc)\
-[A Snake Game](https://kale-ko.itch.io/snake)\
-[2D Golf](https://github.kaleko.ga/Golf)\
-[2D Block Simulation](https://github.kaleko.ga/2D-Simulation)\
-[Yaml Parsing Library](https://www.npmjs.com/super-yaml-parser)
