@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, my name is Kale. I am a self taught developer from the US.
+Hello, my name is Kale. I am a self taught developer from the US.\
 I know how to code in a wide variaty of languages and love to do it. Check out some things I've made on [my website](https://kaleko.ga)
 
 **Contact me:**\
