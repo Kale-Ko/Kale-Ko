@@ -9,7 +9,7 @@ I know how to code in a wide variaty of languages and love to do it. Check out s
 **I use:**\
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
-[![Windows 11](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)]((https://www.microsoft.com/en-us/windows/windows-11)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)]((https://www.microsoft.com/en-us/windows/windows-11)
 [![Android 8](https://img.shields.io/badge/Android%208-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 **I code with:**\
