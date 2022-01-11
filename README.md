@@ -1,7 +1,7 @@
 ## About Me
 
 Hello, my name is Kale. I am a self taught developer from the US.\
-I know how to code in a wide variaty of languages and love to do it. Check out some things I've made on [my website](https://kaleko.ga)
+I know how to code in a wide variaty of languages and love to do it. Check out some things I've made on [my website](https://kaleko.ga/projects) or on my [repositories page](https://github.com/Kale-Ko?tab=repositories)
 
 **Contact me:**\
 [![Email](https://img.shields.io/badge/Email-00B1DE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
