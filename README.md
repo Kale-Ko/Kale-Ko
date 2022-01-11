@@ -4,12 +4,12 @@ Hello, my name is Kale. I am a self taught developer from the US.\
 I know how to code in a wide variaty of languages and love to do it. Check out some things I've made on [my website](https://kaleko.ga)
 
 **Contact me:**\
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/pTKcJjwJ3G)
 [![Email](https://img.shields.io/badge/Email-00B1DE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
 
 **I use:**\
-[![Windows 11](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Windows 11](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)]((https://www.microsoft.com/en-us/windows/windows-11)
 [![Android 8](https://img.shields.io/badge/Android%208-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 **I code with:**\
