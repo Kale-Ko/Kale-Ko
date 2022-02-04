@@ -5,6 +5,7 @@ I know how to code in a wide variaty of languages and love to do it. Check out s
 
 **Contact me:**\
 [![Email](https://img.shields.io/badge/Email-00B1DE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
+[![Twitter](https://img.shields.io/badge/Twitter-00B1DE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kale_The_Ko)
 
 **I use:**\
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/get-windows-10)
