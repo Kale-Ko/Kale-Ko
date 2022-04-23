@@ -4,7 +4,7 @@ Hi, my name is Kale. I am a self-taught developer from the US.\
 I know how to code in a wide variety of languages and love to do it. Check out some things I've made on [my website](https://kaleko.ga/projects) or on my [repositories page](https://github.com/Kale-Ko?tab=repositories)
 
 **Contact me:**\
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Kale_The_Ko)
 
 **I use:**\
