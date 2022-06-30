@@ -13,7 +13,7 @@ I know how to code in a wide variety of languages including Java, JavaScript, C+
 
 **I code with:**\
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codespaces)
+[![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codespaces)
 
 **I code in:**\
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
