@@ -15,7 +15,7 @@ I know how to code in a wide variety of languages including Java, JavaScript, C+
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 **I code in:**\
-[![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-F78C40?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
