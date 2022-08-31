@@ -1,7 +1,7 @@
 ## About Me
 
 Hi, my name is Kale. I am a self-taught developer from the US.\
-I know how to code in a wide variety of languages including Java, JavaScript, C++, and Python. Check out some things I've made on [my website](https://kaleko.ga/projects) or on my [repositories page](https://github.com/Kale-Ko?tab=repositories)
+I know how to code in a wide variety of languages including Java, JavaScript, C++, and Python. Check out some things I've made on [my website](https://kaleko.ga/) or on my [repositories page](https://github.com/Kale-Ko?tab=repositories)
 
 **Contact me:**\
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaleko.ga)
