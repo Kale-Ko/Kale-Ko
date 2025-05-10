@@ -10,5 +10,5 @@ Discord: `@kaletheko`
 
 **Stats:**
 
-[![](https://github-readme-stats.vercel.app/api?username=Kale-Ko&theme=dark&show_icons=true&border_radius=12)](https://github.com/Kale-Ko)\
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Kale-Ko&theme=dark&layout=pie&border_radius=12&size_weight=1&count_weight=2)](https://github.com/Kale-Ko)
+[![](https://kale-ko-github-readme-stats.vercel.app/api?username=Kale-Ko&theme=dark&show_icons=true&border_radius=12)](https://github.com/Kale-Ko)\
+[![](https://kale-ko-github-readme-stats.vercel.app/api/top-langs?username=Kale-Ko&theme=dark&layout=pie&border_radius=12&size_weight=1&count_weight=2)](https://github.com/Kale-Ko)
